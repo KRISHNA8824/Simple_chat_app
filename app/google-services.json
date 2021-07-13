@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "234628324949",
+    "project_id": "chatting-app-14842",
+    "storage_bucket": "chatting-app-14842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234628324949:android:9a08122417c06e38cbfedc",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySi3fYpWfu1Isl902TQl5IugiHWcrX68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234628324949:android:fa41eb88f669ea39cbfedc",
+        "android_client_info": {
+          "package_name": "com.example.googleauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySi3fYpWfu1Isl902TQl5IugiHWcrX68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234628324949:android:458c5198026956e8cbfedc",
+        "android_client_info": {
+          "package_name": "com.example.simplechattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySi3fYpWfu1Isl902TQl5IugiHWcrX68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234628324949:android:d83a839024f4f9b6cbfedc",
+        "android_client_info": {
+          "package_name": "com.example.userauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySi3fYpWfu1Isl902TQl5IugiHWcrX68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234628324949:android:3242112289db0a0dcbfedc",
+        "android_client_info": {
+          "package_name": "com.krishna.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySi3fYpWfu1Isl902TQl5IugiHWcrX68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234628324949-868m0mf01u0k9be20lm3goockvdide05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

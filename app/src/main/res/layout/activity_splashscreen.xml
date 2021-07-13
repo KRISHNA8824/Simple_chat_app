@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen"
+    android:background="#5D23AF">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_100sdp"
+            android:src="@mipmap/logo_splash" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Welcome"
+            android:layout_margin="@dimen/_10sdp"
+            android:textSize="@dimen/_22sdp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/spartan_bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Simple Chat App"
+            android:layout_margin="@dimen/_10sdp"
+            android:textSize="@dimen/_22sdp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/spartan_bold"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="From :"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_18sdp"
+            android:gravity="center"
+            android:layout_margin="@dimen/_10sdp"
+            android:fontFamily="@font/spartan_bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Krishna Kumar Gurjar"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_18sdp"
+            android:gravity="center"
+            android:layout_margin="@dimen/_10sdp"
+            android:fontFamily="@font/spartan_bold"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
